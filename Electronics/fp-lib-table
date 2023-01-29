@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name "USB_C_Right_Angle")(type "KiCad")(uri "${KIPRJMOD}/USB_C_Right_Angle")(options "")(descr ""))
+)
