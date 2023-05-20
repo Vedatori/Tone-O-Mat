@@ -1,4 +1,4 @@
-20945633517614813
+20955723483666780
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -27629,6 +27629,27 @@ solder Pin_ with flat fork
 1
 1
 Connector_Pin
+Tone-O-Mat-Left-Pad
+
+
+0
+1
+1
+Connector_Pin
+Tone-O-Mat-Middle-Pad
+
+
+0
+1
+1
+Connector_Pin
+Tone-O-Mat-Right-Pad
+
+
+0
+1
+1
+Connector_Pin
 Tone-O-Mat-Top-Pad
 
 
@@ -50560,6 +50581,20 @@ SMD SMT ceramic resonator filter filter hand-soldering
 0
 3
 3
+Custom_Graphics
+Vedatori_logo
+
+
+0
+0
+0
+Custom_Graphics
+Vedatori_logo_small
+
+
+0
+0
+0
 Diode_SMD
 D_0201_0603Metric
 Diode SMD 0201 (0603 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://www.vishay.com/docs/20052/crcw0201e3.pdf), generated with kicad-footprint-generator
@@ -77339,6 +77374,13 @@ Potentiometer_THT
 Potentiometer_Runtron_RM-065_Vertical
 Potentiometer, vertical, Trimmer, RM-065 https://components101.com/sites/default/files/component_datasheet/Preset%20Potentiometer%20%28Trimpot%29.pdf
 Potentiometer Trimmer RM-065
+0
+3
+3
+Potentiometer_THT
+Potentiometer_TME_R16148-1A-2-B2K2
+
+
 0
 3
 3
