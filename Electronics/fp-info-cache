@@ -1,4 +1,4 @@
-20955723483666780
+20960778324807554
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -6271,6 +6271,13 @@ capacitor tantalum
 0
 2
 2
+Capacitor_Tantalum_SMD
+Capacitor_tantalum_arduino
+
+
+0
+0
+0
 Connector
 Banana_Cliff_FCR7350x_S16N-PC_Horizontal
 Cliff single 4mm shrouded banana panel socket, through-hole, horizontal, https://www.cliffuk.co.uk/products/testleads/sockets/S16NPC.pdf
@@ -6383,6 +6390,20 @@ Grove-1x04
 0
 4
 4
+Connector
+Pad_3_potentiometer
+
+
+0
+3
+3
+Connector
+Pad_square_1.7mm
+
+
+0
+1
+1
 Connector
 SpringContact_Harwin_S1941-46R
 7.25mm SMT Multi-directional Spring Contact (T+R), https://cdn.harwin.com/pdfs/S1941R.pdf
