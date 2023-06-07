@@ -1,4 +1,6 @@
 (fp_lib_table
+  (version 7)
   (lib (name "USB_C_Right_Angle")(type "KiCad")(uri "${KIPRJMOD}/USB_C_Right_Angle")(options "")(descr ""))
   (lib (name "Custom_Graphics")(type "KiCad")(uri "D:/Programy/KiCad/my_libs/Custom_Graphics.pretty")(options "")(descr ""))
+  (lib (name "Keys")(type "KiCad")(uri "${KIPRJMOD}/Keys/Keys.pretty")(options "")(descr ""))
 )
