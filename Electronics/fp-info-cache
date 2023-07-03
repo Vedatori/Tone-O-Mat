@@ -1,4 +1,4 @@
-21748812781344997
+21758949396961637
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -51457,12 +51457,54 @@ SMD SMT ceramic resonator filter filter hand-soldering
 3
 3
 CustomLib
+AOD514_small_courtyard
+AOD514-3
+MOSFET (N-Channel)
+0
+3
+3
+CustomLib
+D502J12S2AHQA
+D502J12S2AHQA-3
+Switch
+0
+4
+4
+CustomLib
+Double_Pad_5x3mm
+
+
+0
+2
+2
+CustomLib
+Pad_5x3mm
+
+
+0
+1
+1
+CustomLib
+SI2302_small_courtyard
+SI2302-3
+MOSFET (N-Channel)
+0
+3
+3
+CustomLib
 SwitchMini
 
 
 0
 3
 3
+CustomLib
+UDFN-8 AZ517-01
+
+
+0
+9
+8
 Custom_Graphics
 Vedatori_logo
 
