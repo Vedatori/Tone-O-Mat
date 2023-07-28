@@ -26,14 +26,15 @@ ___
 ## Potřebujeme:
 * Desku plošných spojů
 * Papírovou nebo jinou maskovací pásku
-    ![alt](SupportFiles/prepTapeBoard.jpg)
+
+![alt](SupportFiles/prepTapeBoard.jpg)
 
 ## Postup:
 Přelepte klávesnici páskou, aby se na ni při pájení nedostal cín.
 ![alt](SupportFiles/tapeBoard.jpg)
 
 
-## <a name = rezistors>Osazení rezistorů</a>
+# <a name = rezistors>Osazení rezistorů</a>
 ## Potřebujeme:
 * Desku plošných spojů
 * Všechny hodnoty rezistorů v tabulce níže
@@ -72,7 +73,7 @@ Postupně osaďte desku odpovídajícími hodnotami rezistorů, které najdete v
 ![alt](SupportFiles/resistors.jpg)
 
 
-## <a name = capacitors>Osazení keramických kondenzátorů</a>
+# <a name = capacitors>Osazení keramických kondenzátorů</a>
 ## Potřebujeme:
 * Desku plošných spojů
 * Všechny hodnoty keramických kondenzátorů v tabulce níže
@@ -91,7 +92,7 @@ Postupně osaďte všechny kondenzátory v SMD nebo THT variantě.
 ![alt](SupportFiles/capacitors.jpg)
 
 
-## <a name = 555timer>Osazení 555 timeru</a>
+# <a name = 555timer>Osazení 555 timeru</a>
 ## Potřebujeme:
 * Desku plošných spojů
 * timer NE555 v THT nebo SMD variantě
@@ -101,7 +102,7 @@ Osaďte 555 timer na desku. Nezapomeňte na polaritu součástky!
 ![alt](SupportFiles/555timer.jpg)
 
 
-## <a name = diodes>Osazení diod</a>
+# <a name = diodes>Osazení diod</a>
 ## Potřebujeme:
 * Desku plošných spojů
 * 2x dioda 1N4148
@@ -111,7 +112,7 @@ Osaďte obě diody. Nezapomeňte na polaritu součástky a fakt, že každá dio
 ![alt](SupportFiles/diodes.jpg)
 
 
-## <a name = transistors>Osazení tranzistorů</a>
+# <a name = transistors>Osazení tranzistorů</a>
 ## Potřebujeme:
 * Desku plošných spojů
 * 2x tranzistor BC547
@@ -121,7 +122,7 @@ Osaďte oba tranzistory. Nezapomeňte na polaritu součástky a fakt, že každ�
 ![alt](SupportFiles/transistors.jpg)
 
 
-## <a name = led>Osazení LED diody</a>
+# <a name = led>Osazení LED diody</a>
 ## Potřebujeme:
 * Desku plošných spojů
 * 1x zelená LED
@@ -131,7 +132,7 @@ Osaďte zelenou LED. Nezapomeňte na polaritu součástky (+ je vyznačeno na de
 ![alt](SupportFiles/led.jpg)
 
 
-## <a name = usb>Osazení USB-C konektoru</a>
+# <a name = usb>Osazení USB-C konektoru</a>
 ## Potřebujeme:
 * Desku plošných spojů
 * 1x USB-C konektor
@@ -142,7 +143,7 @@ Osaďte USB-C konektor. Dbejte na malé množství cínu, piny nesmí být slit�
 ![alt](SupportFiles/usbGoodSoldering.jpg)
 
 
-## <a name = electrolyticCapacitor>Osazení elektrolytického kondenzátoru</a>
+# <a name = electrolyticCapacitor>Osazení elektrolytického kondenzátoru</a>
 ## Potřebujeme:
 * Desku plošných spojů
 * 1x elektrolytický kondenzátor 100uF
@@ -152,7 +153,7 @@ Osaďte elektrolytický kondenzátor. Nezapomeňte, že narozdíl od keramickýc
 ![alt](SupportFiles/electrolyticCapacitor.jpg)
 
 
-## <a name = switch>Osazení vypínače</a>
+# <a name = switch>Osazení vypínače</a>
 ## Potřebujeme:
 * Desku plošných spojů
 * 1x vypínač
@@ -162,7 +163,7 @@ Osaďte vypínač. Polaritu nemá.
 ![alt](SupportFiles/switch.jpg)
 
 
-## <a name = potentiometers>Osazení potenciometrů</a>
+# <a name = potentiometers>Osazení potenciometrů</a>
 ## Potřebujeme:
 * Desku plošných spojů
 * 2x potenciometr
@@ -172,7 +173,7 @@ Osaďte potenciometry. Nemusíte jejich dvě větší nožičky nějak zásadně
 ![alt](SupportFiles/potentiometers.jpg)
 
 
-## <a name = speaker>Osazení reproduktoru</a>
+# <a name = speaker>Osazení reproduktoru</a>
 ## Potřebujeme:
 * Desku plošných spojů
 * Reproduktor
@@ -190,7 +191,7 @@ Reproduktor přilepte tavnou pistolí k desce na označené místo.
 ![alt](SupportFiles/glueSpeaker.jpg)
 
 
-## <a name = stylus>Stylus</a>
+# <a name = stylus>Stylus</a>
 ## Potřebujeme:
 * Desku plošných spojů
 * Cícka kabelu
