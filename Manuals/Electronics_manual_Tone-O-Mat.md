@@ -36,9 +36,9 @@ Přelepte klávesnici páskou, aby se na ni při pájení nedostal cín.
 ## <a name = rezistors>Osazení rezistorů</a>
 ## Potřebujeme:
 * Desku plošných spojů
-* Všechny hodnoty rezistorů v tabulce 1
+* Všechny hodnoty rezistorů v tabulce níže
 
-<!-------------- Table 1 ------------>* Desku plošných spojů
+<!-------------- Table 1 ------------>
 | Číslo rezistoru | Hodnota |
 |-----------------:|:---------:|
 |R11, R13, R19, R53, R55, R79 | 3k3 |
@@ -68,14 +68,14 @@ Přelepte klávesnici páskou, aby se na ni při pájení nedostal cín.
 Nyní je třeba se rozhodnout, jestli chcete osazovat THT nebo SMD součástky. Na obrázku vidíte, jak správně osadit THT nebo SMD rezistor.
     ![alt](SupportFiles/resistorsGoodSolder.jpg)
 Přichystejte si THT nebo SMD rezistory.
-Postupně osaďte desku odpovídajícími hodnotami rezistorů, které najdete v tabulce 1.
+Postupně osaďte desku odpovídajícími hodnotami rezistorů, které najdete v tabulce nahoře.
 ![alt](SupportFiles/resistors.jpg)
 
 
 ## <a name = capacitors>Osazení keramických kondenzátorů</a>
 ## Potřebujeme:
 * Desku plošných spojů
-* Všechny hodnoty keramických kondenzátorů v tabulce 2
+* Všechny hodnoty keramických kondenzátorů v tabulce níže
 
 | Kondenzátor | Hodnota |
 |-----------------:|:---------:|
