@@ -1,4 +1,4 @@
-V tomto dokumentu je uveden návod na zapájení a sestavení elektronického piána Tone-O-Mat.
+V tomto dokumentu je uveden návod na zapájení elektronického piána Tone-O-Mat.
 Pro tento návod si zavedeme následující pojmy:
 * DPS (Deska Plošných Spojů) - Laminátová deska pokrytá elektricky vodivými měděnými cestami, na kterou budeme nyní pájet součástky.
 * SMD (Surface Mount Device) - Tzv. bezvývodové elektronické součástky, které mají krátké nožičky. Tyto součástky jsou připájeny k DPS pouze z jedné strany. Tyto součástky byly osazevy strojově při výrobě DPS.
@@ -194,6 +194,6 @@ Reproduktor přilepte tavnou pistolí k desce na označené místo.
 # <a name = stylus>Stylus</a>
 ## Potřebujeme:
 * Desku plošných spojů
-* Cícka kabelu
+* Cívka kabelu
 
 ## Postup:
