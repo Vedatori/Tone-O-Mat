@@ -51,6 +51,7 @@ Přelepte klávesnici páskou, aby se na ni při pájení nedostal cín.
 | R23, R29 | 2k7 |
 | R37, R41 | 1k8 |
 | R3, R61 | 300R |
+| R67, R69 | 5k1 |
 | R15 | 500R |
 | R21 | 3k |
 | R35 | 2k2 |
@@ -59,7 +60,6 @@ Přelepte klávesnici páskou, aby se na ni při pájení nedostal cín.
 | R47 | 27k |
 | R57 | 10k |
 | R65 | 680R |
-| R67 | 5k1 |
 | R7 | 4k3 |
 | R75 | 56R |
 | R81 | 270k |
