@@ -204,7 +204,7 @@ Reproduktor přilepte tavnou pistolí k desce na označené místo.
 ![alt](SupportFiles/prepForStylus.jpg)
 
 ## Postup:
-Ustřihněte cca 30 cm dlouhý kabel a odizolujte z jedné strany 3 mm, z druhé 2 cm. Kratší odizolovaný konec pocínujte.
+Ustřihněte cca 35 cm dlouhý kabel a odizolujte z jedné strany 3 mm, z druhé 2 cm. Kratší odizolovaný konec pocínujte.
 ![alt](SupportFiles/wireForStylus.jpg)
 Delší odizolovaný konec vložte do stylusu a proveďte ho až na doraz. Poté vložte M3 šroub a omotejte kolem něho odizolovaný konec.
 ![alt](SupportFiles/assembleStylus.jpg)

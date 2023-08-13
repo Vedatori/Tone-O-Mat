@@ -38,6 +38,9 @@ Pozor na orientaci dílů, při nesprávném otočení nepůjde krabička složi
 * Papírová páska
 
 ## Kolik lepidla nanést:
+Pokud je množství lepidla správné, mělo by po stlačení dílů trošku vytéct. Vymáčknuté lepidlo otřete papírovým ubrouskem.
+
+![alt](SupportFiles/)
 
 ## Postup:
 Položte si vrchní překližkový díl na stůl a přilepte k němu zadní levou a pravou stranu krabičy. Vždy lepidlo naneste na všechny spojované plochy, tj. včetně ploch mezi jednotlivými stranami. Slepený spoj poté dočasně zpevněte kouskem papírové pásky.
@@ -71,19 +74,7 @@ Vložte matky do dílů pro upevnění PCB a dna krabičky.
 
 ![alt](SupportFiles/)
 
-Vlepte nožičky vteřinovým lepidlem do vygravírovaných míst ve dně krabičky. Pozor na umístění nožiček s matkami.
-
-![alt](SupportFiles/)
-
-![alt](SupportFiles/)
-
-Přilepte vteřinovým lepidlem distanční díly na druhou stranu spodního dílu. Pro zarovnání využijte jednoho z šroubů.
-
-![alt](SupportFiles/)
-
-![alt](SupportFiles/)
-
-Vlepte vteřinovým lepidlem díly pro upevnění dna krabičky. Pozor nejsou stejné a záleží na umístění.
+Vlepte s pomocí vedoucího epoxidem díly pro upevnění dna krabičky. Pozor nejsou stejné a záleží na umístění.
 
 ![alt](SupportFiles/)
 
@@ -101,11 +92,7 @@ Sundejte z krabice všechny pásky, které jste použili při lepení. Natřete 
 
 Štětec po dokončení lakování okamžitě ponořte do vody a vymyjte.
 
-![alt](SupportFiles/)
-
 Převědčte se, že první vrstva laku je vytvrzená. Pokud ano, přebrušte lakované plochy. Většinou stačí méně než 10 tahů po každé ploše. 
-
-![alt](SupportFiles/)
 
 Přejeďte čistým prstem po vybroušeném povrchu a přesvědčte se, že je hladký.
 
