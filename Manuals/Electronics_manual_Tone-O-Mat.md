@@ -42,16 +42,17 @@ Přelepte klávesnici páskou, aby se na ni při pájení nedostal cín.
 <!-------------- Table 1 ------------>
 | Číslo rezistoru | Hodnota |
 |-----------------:|:---------:|
-|R11, R13, R19, R53, R55, R79 | 3k3 |
-| R1, R49, R5, R59, R73 | 4k7 |
+| R11, R13, R19, R53, R55, R79 | 3k3 |
+| R1, R5, R49, R59, R73 | 4k7 |
 | R43, R63, R77 | 1k |
 | R25, R31, R33 | 2k4 |
 | R27, R51, R71 | 150R |
-| R17, R9 | 3k6 |
+| R3, R61 | 300R |
+| R9, R17 | 3k6 |
 | R23, R29 | 2k7 |
 | R37, R41 | 1k8 |
-| R3, R61 | 300R |
 | R67, R69 | 5k1 |
+| R7 | 4k3 |
 | R15 | 500R |
 | R21 | 3k |
 | R35 | 2k2 |
@@ -60,7 +61,6 @@ Přelepte klávesnici páskou, aby se na ni při pájení nedostal cín.
 | R47 | 27k |
 | R57 | 10k |
 | R65 | 680R |
-| R7 | 4k3 |
 | R75 | 56R |
 | R81 | 270k |
 <!-------------------------->
@@ -194,6 +194,21 @@ Reproduktor přilepte tavnou pistolí k desce na označené místo.
 # <a name = stylus>Stylus</a>
 ## Potřebujeme:
 * Desku plošných spojů
-* Cívka kabelu
+* Kabel
+* 1x Šroub M3x6
+* Tělo stylusu
+* Štípací kleště
+* Pravítko
+* Šroubovák
+
+![alt](SupportFiles/prepForStylus.jpg)
 
 ## Postup:
+Ustřihněte cca 30 cm dlouhý kabel a odizolujte z jedné strany 3 mm, z druhé 2 cm. Kratší odizolovaný konec pocínujte.
+![alt](SupportFiles/wireForStylus.jpg)
+Delší odizolovaný konec vložte do stylusu a proveďte ho až na doraz. Poté vložte M3 šroub a omotejte kolem něho odizolovaný konec.
+![alt](SupportFiles/assembleStylus.jpg)
+Šroub zašroubujte až na doraz tak, aby kolem něho byl omotaný odizolovaný konec drátu.
+![alt](SupportFiles/assembledStylus.jpg)
+Hotový stylus proveďte prvně otvorem v krabičce, poté příslušnou ploškou v desce a zapájejte.
+![alt](SupportFiles/solderStylus.jpg)
