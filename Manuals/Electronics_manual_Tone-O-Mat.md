@@ -212,3 +212,4 @@ Delší odizolovaný konec vložte do stylusu a proveďte ho až na doraz. Poté
 ![alt](SupportFiles/assembledStylus.jpg)
 Hotový stylus proveďte prvně otvorem v krabičce, poté příslušnou ploškou v desce a zapájejte.
 ![alt](SupportFiles/solderStylus.jpg)
+
