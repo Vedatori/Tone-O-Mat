@@ -213,3 +213,26 @@ Delší odizolovaný konec vložte do stylusu a proveďte ho až na doraz. Poté
 Hotový stylus proveďte prvně otvorem v krabičce, poté příslušnou ploškou v desce a zapájejte.
 ![alt](SupportFiles/solderStylus.jpg)
 
+# <a name = stylus>Kompletace</a>
+## Potřebujeme:
+* Spodní díl krabičky
+* Vrchní část krabičky
+* Osazené PCB
+* 4x Šroub M3x16
+* Šroubovák
+
+![alt](SupportFiles/prepForStylus.jpg)
+
+## Postup:
+Vložte desku do krabičky a na díry pro šrouby položte plastové spacery.
+
+![alt](SupportFiles/PCB+spacers.jpeg)
+
+Opatrně zavřete krabičku a položte do vygravírovaných míst nožičky (nožičky s matkou patří k přední hraně desky). 
+Zašroubujte zespodu krabičku pomocí dvou šroubů M3x16.
+
+![alt](SupportFiles/screws_bottom.jpeg)
+
+Zašroubujte krabičku zvrchu pomocí dvou šroubů M3x16.
+
+![alt](SupportFiles/screws_top.jpeg)
