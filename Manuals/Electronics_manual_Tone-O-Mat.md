@@ -221,8 +221,6 @@ Hotový stylus proveďte prvně otvorem v krabičce, poté příslušnou ploško
 * 4x Šroub M3x16
 * Šroubovák
 
-![alt](SupportFiles/prepForStylus.jpg)
-
 ## Postup:
 Vložte desku do krabičky a na díry pro šrouby položte plastové spacery.
 
@@ -236,3 +234,7 @@ Zašroubujte zespodu krabičku pomocí dvou šroubů M3x16.
 Zašroubujte krabičku zvrchu pomocí dvou šroubů M3x16.
 
 ![alt](SupportFiles/screws_top.jpeg)
+
+Nasaďte 3D tištěné díly na potenciometry a přepínač.
+
+![alt](SupportFiles/addKnobs.jpg)
