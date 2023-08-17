@@ -5007,7 +5007,7 @@
 
   (footprint "Custom_Graphics:Vedatori_logo_small" (layer "F.Cu")
     (tstamp f5457cd9-148f-45f1-be04-bd3a4bacf967)
-    (at 227.33 66.13)
+    (at 227.32 66.56)
     (attr through_hole)
     (fp_text reference "G2" (at 0 0) (layer "F.SilkS") hide
         (effects (font (size 1.524 1.524) (thickness 0.3)))
@@ -5282,11 +5282,11 @@
     (attr smd)
     (fp_text reference "G1" (at 12.725 -5.36) (layer "F.SilkS") hide
         (effects (font (size 1.524 1.524) (thickness 0.3)))
-      (tstamp f890e07d-72c5-4d20-bcee-85a37217f397)
+      (tstamp 98fb0d1c-06e9-4522-876f-e883013ace84)
     )
     (fp_text value "LOGO" (at 13.475 -5.36) (layer "F.SilkS") hide
         (effects (font (size 1.524 1.524) (thickness 0.3)))
-      (tstamp fd765acf-1267-47dc-8fb9-312aa2f11b5a)
+      (tstamp a23e57f2-c2ec-460a-927d-577e6e27caf9)
     )
     (fp_poly
       (pts
@@ -5438,7 +5438,7 @@
         (xy 7.863949 4.531995)
       )
 
-      (stroke (width 0.01) (type solid)) (fill solid) (layer "B.SilkS") (tstamp fc7f5e22-f1a1-47d6-9cee-4047b0b9bb81))
+      (stroke (width 0.01) (type solid)) (fill solid) (layer "B.SilkS") (tstamp dfcd5803-2785-4a1a-b1eb-a08a69d6ad00))
   )
 
   (gr_line (start 240 60) (end 50 60)
@@ -5452,8 +5452,11 @@
   (gr_text "Vědátoři Tone-O-Mat V2.0" (at 220.01 62.06) (layer "F.SilkS") (tstamp 14811818-f8c6-4676-92dc-5eae73a323f6)
     (effects (font (size 1 1) (thickness 0.15)))
   )
-  (gr_text "JLCJLCJLCJLC" (at 211.93 66.84) (layer "F.SilkS") (tstamp 70a825fd-db24-4966-ba80-cd401ee18103)
+  (gr_text "JLCJLCJLCJLC" (at 213.74 65.32) (layer "F.SilkS") (tstamp 70a825fd-db24-4966-ba80-cd401ee18103)
     (effects (font (size 1 1) (thickness 0.2) bold) (justify left bottom))
+  )
+  (gr_text "SPEAKER HERE" (at 199.82 72.98) (layer "F.SilkS") (tstamp f47898d7-2bae-43d4-85c8-b91195e174d1)
+    (effects (font (size 2 2) (thickness 0.3)) (justify left bottom))
   )
 
   (segment (start 112.6159 89.3291) (end 112.6159 88.7156) (width 0.55) (layer "F.Cu") (net 1) (tstamp 12964525-cd94-405c-a6d9-1e4df9f2a83a))
