@@ -1,0 +1,7 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "Custom_Graphics")(type "KiCad")(uri "D:/Programy/KiCad/my_libs/Custom_Graphics.pretty")(options "")(descr ""))
+  (lib (name "Keys")(type "KiCad")(uri "${KIPRJMOD}/Keys/Keys.pretty")(options "")(descr ""))
+  (lib (name "Tone-o-mat_combos-lib")(type "KiCad")(uri "${KIPRJMOD}/Tone-o-mat_combos-lib.pretty")(options "")(descr ""))
+  (lib (name "USB_C_Tone-o-mat")(type "KiCad")(uri "${KIPRJMOD}/USB_C_Tone-o-mat")(options "")(descr ""))
+)

@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP USB4125-GF-A-0190
+D USB Connectors USB C Rec GF RA 6P SMT TH Stakes 1.9mm
+K
+F https://eu.mouser.com/datasheet/2/837/usb4125-2448699.pdf
+$ENDCMP
+#
+#End Doc Library

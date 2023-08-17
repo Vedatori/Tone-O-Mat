@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name tone-o-mat-rescue)(type Legacy)(uri ${KIPRJMOD}/tone-o-mat-rescue.lib)(options "")(descr ""))
+)
