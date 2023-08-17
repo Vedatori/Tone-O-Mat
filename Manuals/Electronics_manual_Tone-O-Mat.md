@@ -85,6 +85,9 @@ Postupně osaďte desku odpovídajícími hodnotami rezistorů, které najdete v
 | C11 | 2.2uF |
 | C13 | 27nF |
 
+Pro ty, co dostali stavebnici domů, jsou na následujícím obrázku popsány hodnoty kondenzátorů.
+![alt](SupportFiles/capacitorValueImage.jpg)
+
 ## Postup:
 Na obrázku vidíte, jak správně osadit THT nebo SMD kondenzátor.
 ![alt](SupportFiles/cappacitorsGoodSolder.jpg)
