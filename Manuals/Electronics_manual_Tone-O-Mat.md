@@ -40,29 +40,29 @@ Přelepte klávesnici páskou, aby se na ni při pájení nedostal cín.
 * Všechny hodnoty rezistorů v tabulce níže
 
 <!-------------- Table 1 ------------>
-| Číslo rezistoru | Hodnota |
-|-----------------:|:---------:|
-| R11, R13, R19, R53, R55, R79 | 3k3 |
-| R1, R5, R49, R59, R73 | 4k7 |
-| R43, R63, R77 | 1k |
-| R25, R31, R33 | 2k4 |
-| R27, R51, R71 | 150R |
-| R3, R61 | 300R |
-| R9, R17 | 3k6 |
-| R23, R29 | 2k7 |
-| R37, R41 | 1k8 |
-| R67, R69 | 5k1 |
-| R7 | 4k3 |
-| R15 | 500R |
-| R21 | 3k |
-| R35 | 2k2 |
-| R39 | 2k |
-| R45 | 620R |
-| R47 | 27k |
-| R57 | 10k |
-| R65 | 680R |
-| R75 | 56R |
-| R81 | 270k |
+| Číslo rezistoru | Hodnota | Obrázek |
+|-----------------:|:---------:|:---------:|
+| R11, R13, R19, R53, R55, R79 | 3k3 | ![alt](SupportFiles/RezistorTable/3k3.png) |
+| R1, R5, R49, R59, R73 | 4k7 | ![alt](SupportFiles/RezistorTable/4k7.png) |
+| R43, R63, R77 | 1k | ![alt](SupportFiles/RezistorTable/1k.png) |
+| R25, R31, R33 | 2k4 | ![alt](SupportFiles/RezistorTable/2k4.png) |
+| R27, R51, R71 | 150R | ![alt](SupportFiles/RezistorTable/150R.png) |
+| R3, R61 | 300R | ![alt](SupportFiles/RezistorTable/300R.png) |
+| R9, R17 | 3k6 | ![alt](SupportFiles/RezistorTable/3k6.png) |
+| R23, R29 | 2k7 | ![alt](SupportFiles/RezistorTable/2k7.png) |
+| R37, R41 | 1k8 | ![alt](SupportFiles/RezistorTable/1k8.png) |
+| R67, R69 | 5k1 | ![alt](SupportFiles/RezistorTable/5k1.png) |
+| R7 | 4k3 | ![alt](SupportFiles/RezistorTable/4k3.png) |
+| R15 | 500R | ![alt](SupportFiles/RezistorTable/500R.png) |
+| R21 | 3k | ![alt](SupportFiles/RezistorTable/3k.png) |
+| R35 | 2k2 | ![alt](SupportFiles/RezistorTable/2k2.png) |
+| R39 | 2k | ![alt](SupportFiles/RezistorTable/2k.png) |
+| R45 | 620R | ![alt](SupportFiles/RezistorTable/620R.png) |
+| R47 | 27k | ![alt](SupportFiles/RezistorTable/27k.png) |
+| R57 | 10k | ![alt](SupportFiles/RezistorTable/10k.png) |
+| R65 | 680R | ![alt](SupportFiles/RezistorTable/680R.png) |
+| R75 | 56R | ![alt](SupportFiles/RezistorTable/56R.png) |
+| R81 | 270k | ![alt](SupportFiles/RezistorTable/270k.png) |
 <!-------------------------->
 
 ## Postup:
