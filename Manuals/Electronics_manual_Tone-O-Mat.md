@@ -63,6 +63,10 @@ Přelepte klávesnici páskou, aby se na ni při pájení nedostal cín.
 | R65 | 680R | ![alt](SupportFiles/RezistorTable/680R.png) |
 | R75 | 56R | ![alt](SupportFiles/RezistorTable/56R.png) |
 | R81 | 270k | ![alt](SupportFiles/RezistorTable/270k.png) |
+\(Images made with help of software at https://www.digikey.com/en/resources/conversion-calculators/conversion-calculator-resistor-color-code\)
+
+Tip pro ty, kteří pájí SMD rezistory: Na rezistoru je vždy číslo, které udává jeho hodnotu, nicméně poslední číslice značí počet nul na konci. To znamená že rezistor na obrázku není 512 ohmů, ale 5100 (5k1), rezistor 560 by byl 56 ohmů apod.
+![alt](SupportFiles/solderingSMDRezistors.jpg)
 <!-------------------------->
 
 ## Postup:
@@ -86,7 +90,7 @@ Postupně osaďte desku odpovídajícími hodnotami rezistorů, které najdete v
 | C13 | 27nF |
 
 Pro ty, co dostali stavebnici domů, jsou na následujícím obrázku popsány hodnoty kondenzátorů.
-![alt](SupportFiles/capacitorValueImage.jpg)
+![alt](SupportFiles/capacitorValueImage.png)
 
 ## Postup:
 Na obrázku vidíte, jak správně osadit THT nebo SMD kondenzátor.
